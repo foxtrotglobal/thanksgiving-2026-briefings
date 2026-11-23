@@ -6,6 +6,13 @@
 **Classification:** UNCLASSIFIED // OPEN SOURCE  
 **Coverage:** Tue 24 Nov – Mon 30 Nov 2026
 
+**Public links (no login needed)**
+- Website: https://foxtrotglobal.github.io/thanksgiving-2026-briefings/
+- NYC PDF: https://foxtrotglobal.github.io/thanksgiving-2026-briefings/NYC-Threat-Assessment-THANKSGIVING-2026.pdf
+- USA PDF: https://foxtrotglobal.github.io/thanksgiving-2026-briefings/USA-Threat-Assessment-THANKSGIVING-2026.pdf
+- NYC web version: https://foxtrotglobal.github.io/thanksgiving-2026-briefings/NYC-Threat-Assessment-THANKSGIVING-2026.html
+- USA web version: https://foxtrotglobal.github.io/thanksgiving-2026-briefings/USA-Threat-Assessment-THANKSGIVING-2026.html
+
 | Briefing | View PDF (in browser) | Download PDF | Markdown | Scope |
 |---|---|---|---|---|
 | New York City | [View](https://github.com/foxtrotglobal/thanksgiving-2026-briefings/blob/main/NYC-Threat-Assessment-THANKSGIVING-2026.pdf) | [Download](https://raw.githubusercontent.com/foxtrotglobal/thanksgiving-2026-briefings/main/NYC-Threat-Assessment-THANKSGIVING-2026.pdf) | [NYC .md](NYC-Threat-Assessment-THANKSGIVING-2026.md) | Macy's Parade, NYPD posture, NYC weather/transit, local risks |
