@@ -3,7 +3,7 @@
 **THANKSGIVING UPDATE, 23 November 2026.** This update builds on the 30 October 2026 Halloween update. It covers what changed from 30 October to 23 November and gives a focused look at Thanksgiving week: the 100th Macy's Thanksgiving Day Parade, the holiday travel rush, Black Friday, and Times Square/Midtown.
 {: .update }
 
-**Prepared for:** Calvin, iHeartRadio | **Prepared by:** Bravo | **Date:** Monday 23 November 2026 | **Classification:** UNCLASSIFIED // OPEN SOURCE
+**Prepared for:** Calvin, iHeartRadio | **Prepared by:** Bravo | **Date:** Monday 23 November 2026 | **Classification:** UNCLASSIFIED // OSINT
 **Coverage:** New York City, Mon 23 Nov to Mon 30 Nov 2026. Parade day is Thu 26 Nov, 8:30 AM–about noon ET (7:30–11:00 AM CT).
 **Research window:** 30 Oct to 23 Nov 2026 (sources accessed 23 Nov 2026).
 

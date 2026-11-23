@@ -3,7 +3,7 @@
 **Prepared for:** Calvin, iHeartRadio  
 **Prepared by:** Bravo  
 **Date:** 23 November 2026  
-**Classification:** UNCLASSIFIED // OPEN SOURCE  
+**Classification:** UNCLASSIFIED // OSINT  
 **Coverage:** Tue 24 Nov – Mon 30 Nov 2026
 
 **Public links (no login needed)**
@@ -18,4 +18,4 @@
 **Notes**
 - The bottom line is on page 1 of the PDF. Source numbers in the PDFs are clickable and link to the Sources section.
 - Every item is labeled FACT / SINGLE-SOURCE / OPINION / ASSESSMENT. Unconfirmed items are flagged in the report's "What Could Not Be Verified" section.
-- Open-source and non-operational. Information as of 23 Nov 2026; re-check weather and the Iran picture before events.
+- OSINT and non-operational. Information as of 23 Nov 2026; re-check weather and the Iran picture before events.
